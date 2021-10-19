@@ -1,0 +1,14 @@
+body
+{
+    background-size:cover;
+}
+
+#start, #number_of_objects, #status
+{
+    font-size:18px;
+}
+
+.copy_right_footer{
+position:fixed;
+color:rgb(64, 161, 168)
+}
